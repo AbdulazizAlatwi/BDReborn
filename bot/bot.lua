@@ -1,5 +1,5 @@
 -- #Beyond Reborn Robot
--- #@BeyondTeam
+-- #@AbdulazizAlatwi
 
 tdcli = dofile('./tg/tdcli.lua')
 serpent = (loadfile "./libs/serpent.lua")()
@@ -108,7 +108,7 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 》Beyond Team Members
 
 》Our channel :
-》@BeyondTeam《
+》@AbdulazizAlatwi《
 
 》Our website :
 》http://Beyond-Dev.iR
